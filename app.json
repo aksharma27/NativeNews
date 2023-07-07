@@ -1,5 +1,6 @@
 {
   "expo": {
+    "sdkVersion": "49.0.0",
     "name": "newslify",
     "slug": "newslify",
     "version": "1.0.0",
